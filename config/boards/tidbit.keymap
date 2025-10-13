@@ -9,11 +9,11 @@
 
         default_layer {
             bindings = <
-    &kp ESC       &kp BSPC      &kp KP_DIVIDE  &kp KP_MULTIPLY   &kp KP_MINUS
-    &kp K_TAB     &kp KP_N7     &kp KP_N8      &kp KP_N9         &kp KP_PLUS
-    &kp KP_N4     &kp KP_N4     &kp KP_N5      &kp KP_N6         &kp K_EQUAL
-    &kp KP_N1     &kp KP_N1     &kp KP_N2      &kp KP_N3         &kp KP_ENTER
-    &kp KP_N1     &kp KP_N0     &kp KP_N1      &kp KP_DOT
+                &kp ESC   &kp BSPC      &kp KP_DIVIDE  &kp KP_MULTIPLY   &kp KP_MINUS
+                &kp T     &kp KP_N7     &kp KP_N8      &kp KP_N9         &kp KP_PLUS
+                &kp V     &kp KP_N4     &kp KP_N5      &kp KP_N6         &kp EQUAL
+                &kp C     &kp KP_N1     &kp KP_N2      &kp KP_N3         &kp KP_ENTER
+                &kp Z     &kp COMMA     &kp KP_N0      &kp KP_DOT        &kp H
             >;
         };
     }
